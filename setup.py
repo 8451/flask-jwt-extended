@@ -15,7 +15,7 @@ with open("README.md", "r") as f:
     long_description = f.read()
 
 
-setup(name='Flask-JWT-Extended',
+setup(name='e451-Flask-JWT-Extended',
       version=version,
       url='https://github.com/vimalloc/flask-jwt-extended',
       license='MIT',
