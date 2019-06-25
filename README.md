@@ -9,7 +9,7 @@
 
 Flask-JWT-Extended not only adds support for using JSON Web Tokens (JWT) to Flask for protecting views,
 but also many helpful (and **optional**) features  built in to make working with JSON Web Tokens
-easier. These include:
+easier. These include: 
 
 * Support for adding custom claims to JSON Web Tokens
 * Custom claims validation on received tokens
